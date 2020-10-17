@@ -2,7 +2,7 @@
 builde guideはこちらです。<br>
 https://github.com/telzo2000/cool836A/issues/2
 
-# 設計理由<br>
+# 設計に至るまで<br>
 平成31年度および令和元年度に、「自作キーボード」という語を知りました。<br>
 その後、nomu30、Choco60、Caravelle等を購入して実際に作ってみました。<br>
 これらはどれもとても素晴らしいキーボードでした。<br>
