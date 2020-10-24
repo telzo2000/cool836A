@@ -29,9 +29,9 @@ cool635の作成で、kicadの使い方も少しわかってきたので、cool8
 
 # 今後の変更予定（Update Plan)
 順不同<br>
-□ MXソケット採用<br>
+☑︎MXソケット採用 Ver.B Date:20201024<br>
 □chocoスイッチ版<br>
-□LED装着<br>
+☑︎LED装着　Ver.B+ Date:20201025<br>
 □pro micro→MCU直付<br>
 □アクリルのトッププレート、ボトムプレート<br>
 □アクリル密閉型ケース<br>
