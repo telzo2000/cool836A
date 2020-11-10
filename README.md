@@ -30,13 +30,13 @@ cool635の作成で、kicadの使い方も少しわかってきたので、cool8
 # 今後の変更予定（Update Plan)
 順不同<br>
 ☑︎MXソケット採用 Ver.B Date:20201024<br>
-□chocoスイッチ版<br>
+□chocoスイッチ版　※pro microの設置場所をPCBの下面から上面に変更か<br>
 ☑︎LED装着　Ver.B+ Date:20201025<br>
 □pro micro→MCU直付<br>
 □アクリルのトッププレート、ボトムプレート<br>
 □アクリル密閉型ケース<br>
 □ラージ版（仮称cool840A）<br>
-□薄型への挑戦（pro microの位置変更）<br>
+□薄型への挑戦（pro microの位置変更）※イエローバージョンとして計画中(2020/11/10)<br>
 □iPhone固定できるケースをオプションとして作る（アクリルか？）<br>
 □Bluetooth採用<br>
 
