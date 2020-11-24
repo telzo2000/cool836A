@@ -45,7 +45,7 @@
 　このキーボードはQMKというキーボード用のソフトウェアで動作するようにプログラミングしています。<br>
 　従来、頒布を目的としていなかったことと、作者が非IT系であることから、自力でファームウェアを作成していません。
 　 [Keyboard Firmware builder](https://kbfirmware.com/)を利用して、hexファイルを作成しました。
-　[QMK Configurator](https://config.qmk.fm/#/) にプルリクする等すれば、QMKConfiguratorを使用してキーレイアウトを変更できますが、
+　[QMK Configurator](https://config.qmk.fm/#/)にプルリクする等すれば、QMKConfiguratorを使用してキーレイアウトを変更できますが、
 　作者には、その力がありません。有識者の方で出来る方がいらっしゃれば、よろしくお願いします。<br>
 　（もし、出来ましたら、ご連絡いただけると、ビルドガイドに、そのことを記載したいと思います）<br>
 　ここでは、Keyboard Firmware Builderで作成した、デフォルトJsonファイル（cool836default.json）とデフォルトHexファイル（cool836default.hex）を下記のリンク先に置きます。ダウンロードして、QMK Toolboxにて使用してください。QMK Toolboxは下記のリンク先にあります。<br>
