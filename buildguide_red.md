@@ -3,9 +3,9 @@
 
 
 **写真**
-![IMG_3272](img/img_0030.jpg)
-![IMG_3268](img/img_0029.jpg)
-![IMG_3271](img/img_0028.jpg)
+![IMG_3272](img/IMG_0030.jpg)
+![IMG_3268](img/IMg_0029.jpg)
+![IMG_3271](img/IMG_0028.jpg)
 <br>
 <br>
 **特徴**
