@@ -75,11 +75,11 @@ Layer=3<br>
 下の画面になりましたら、「KEYMAP」をクリックしてください。その画面でキーレイアウトの変更ができます。<br>
 <img width="1022" alt="kfbscreenshot1" src="https://user-images.githubusercontent.com/67196597/93729617-48373a80-fc00-11ea-9a1d-6b704c776602.png">
 <br>
-（「WIRING」「PINS」は絶対に変更しないでください。ここを変更して作成したHexファイルでは正しくキーが入力されなくなります。）
+　（「WIRING」「PINS」は絶対に変更しないでください。ここを変更して作成したHexファイルでは正しくキーが入力されなくなります。）
 変更ができましたら、「SETTING」をクリックしてください。下の画面になりましたら、「Save Configuration」をクリックしてください。変更されたキーレイアウトのJsonファイルがダウンロードされます。次回以降、それを使うことで、変更履歴を意識しながら、最高のキーレイアウトへ到着できると思います。<br>
 <img width="847" alt="kfbscreenshot2" src="https://user-images.githubusercontent.com/67196597/93729802-fe028900-fc00-11ea-8f1b-f777f66b585f.png">
 <br>
-続いて、「COMPILE」をクリックしてください。下の画面になりましたら、「Download .hex」をクリックしてください。変更されたキーレアウトのHexフィルがダウンロードされます。このHexファイルを前述のQMK Toolboxで使用してください。<br>
+　続いて、「COMPILE」をクリックしてください。下の画面になりましたら、「Download .hex」をクリックしてください。変更されたキーレアウトのHexフィルがダウンロードされます。このHexファイルを前述のQMK Toolboxで使用してください。<br>
 <img width="796" alt="kfbscreenshot3" src="https://user-images.githubusercontent.com/67196597/93778286-b01d6d80-fc60-11ea-9c7b-53224d08bf6d.png">
 <br>
 <br>
