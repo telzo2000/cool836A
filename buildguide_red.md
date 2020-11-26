@@ -43,10 +43,7 @@
 <br>
 　「ハンダ付け不要版」では、すでに同封のpro microにファームウェアが書き込まれています。<br>
 　このキーボードはQMKというキーボード用のソフトウェアで動作するようにプログラミングしています。<br>
-　従来、頒布を目的としていなかったことと、作者が非IT系であることから、自力でファームウェアを作成していません。
-　 [Keyboard Firmware builder](https://kbfirmware.com/)を利用して、hexファイルを作成しました。
-　[QMK Configurator](https://config.qmk.fm/#/)にプルリクする等すれば、QMKConfiguratorを使用してキーレイアウトを変更できますが、
-　作者には、その力がありません。有識者の方で出来る方がいらっしゃれば、よろしくお願いします。<br>
+　従来、頒布を目的としていなかったことと、作者が非IT系であることから、自力でファームウェアを作成していません。[Keyboard Firmware builder](https://kbfirmware.com/)を利用して、hexファイルを作成しました。[QMK Configurator](https://config.qmk.fm/#/)にプルリクする等すれば、QMKConfiguratorを使用してキーレイアウトを変更できますが、作者には、その力がありません。有識者の方で出来る方がいらっしゃれば、よろしくお願いします。<br>
 　（もし、出来ましたら、ご連絡いただけると、ビルドガイドに、そのことを記載したいと思います）<br>
 　ここでは、Keyboard Firmware Builderで作成した、デフォルトJsonファイル（cool836default.json）とデフォルトHexファイル（cool836default.hex）を下記のリンク先に置きます。ダウンロードして、QMK Toolboxにて使用してください。QMK Toolboxは下記のリンク先にあります。<br>
 　[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)
@@ -57,8 +54,7 @@
 　<br>
 　QMK Toolboxの使い方は詳しく書きませんが、デフォルトhexファイルをダウンロードして、「Local File」で選択してください。pro microをPCに接続し、リセットボタンを押して書き込みます。（リセットボタンをダブルクリックしないと書き込めないパターンのものもあります）<br>
 　書き込み方法などは[サリチル酸さんの（初心者編）自作キーボードにファームウェアを書き込むの記事](https://salicylic-acid3.hatenablog.com/entry/qmk-configurator)がとても参考になります。他にも有用な記事が多いので、一読することをお勧めします。<br>
-　デフォルトキーマップは作者が実際に使用しているもので、ほぼ何不自由なく使えるように工夫しています。
-チートシートは次のとおりです。<br>
+　デフォルトキーマップは作者が実際に使用しているもので、ほぼ何不自由なく使えるように工夫しています。チートシートは次のとおりです。<br>
 Layer=0<br>
 <img width="881" alt="cool836Alayer0" src="https://user-images.githubusercontent.com/67196597/93729150-3f456980-fbfe-11ea-9c2e-4ac80c4ab55f.png">
 <br>
@@ -71,12 +67,10 @@ Layer=2<br>
 Layer=3<br>
 <img width="866" alt="cool836Alayer3" src="https://user-images.githubusercontent.com/67196597/93729175-54ba9380-fbfe-11ea-8ac7-c353c10f7748.png">
 <br>
-　キーレイアウトの変更をされる場合は、事前に、[デフォルトJsonファイル](https://github.com/telzo2000/cool836A/)をダウンロードしてから、[Keyboard Firmware builder](https://kbfirmware.com/)へアクセスしてください。「Upload」をクリックして、先ほどのデフォルトJsonファイルを選択してください。
-下の画面になりましたら、「KEYMAP」をクリックしてください。その画面でキーレイアウトの変更ができます。<br>
+　キーレイアウトの変更をされる場合は、事前に、[デフォルトJsonファイル](https://github.com/telzo2000/cool836A/)をダウンロードしてから、[Keyboard Firmware builder](https://kbfirmware.com/)へアクセスしてください。「Upload」をクリックして、先ほどのデフォルトJsonファイルを選択してください。下の画面になりましたら、「KEYMAP」をクリックしてください。その画面でキーレイアウトの変更ができます。<br>
 <img width="1022" alt="kfbscreenshot1" src="https://user-images.githubusercontent.com/67196597/93729617-48373a80-fc00-11ea-9a1d-6b704c776602.png">
 <br>
-　（「WIRING」「PINS」は絶対に変更しないでください。ここを変更して作成したHexファイルでは正しくキーが入力されなくなります。）
-変更ができましたら、「SETTING」をクリックしてください。下の画面になりましたら、「Save Configuration」をクリックしてください。変更されたキーレイアウトのJsonファイルがダウンロードされます。次回以降、それを使うことで、変更履歴を意識しながら、最高のキーレイアウトへ到着できると思います。<br>
+　（「WIRING」「PINS」は絶対に変更しないでください。ここを変更して作成したHexファイルでは正しくキーが入力されなくなります。）変更ができましたら、「SETTING」をクリックしてください。下の画面になりましたら、「Save Configuration」をクリックしてください。変更されたキーレイアウトのJsonファイルがダウンロードされます。次回以降、それを使うことで、変更履歴を意識しながら、最高のキーレイアウトへ到着できると思います。<br>
 <img width="847" alt="kfbscreenshot2" src="https://user-images.githubusercontent.com/67196597/93729802-fe028900-fc00-11ea-8f1b-f777f66b585f.png">
 <br>
 　続いて、「COMPILE」をクリックしてください。下の画面になりましたら、「Download .hex」をクリックしてください。変更されたキーレアウトのHexフィルがダウンロードされます。このHexファイルを前述のQMK Toolboxで使用してください。<br>
