@@ -83,7 +83,7 @@ Layer=3<br>
 <img width="796" alt="kfbscreenshot3" src="https://user-images.githubusercontent.com/67196597/93778286-b01d6d80-fc60-11ea-9c7b-53224d08bf6d.png">
 <br>
 <br>
-**Bluetoothについて**
+**LEDについて**
 <br>
 　実装できるように、PCB下面に配線はしました。自己責任でお願いします。<br>
 <br>
