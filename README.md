@@ -1,6 +1,9 @@
 # cool836A
-builde guideはこちらです。<br>
+ブラックバージョンのbuilde guideはこちらです。<br>
 https://github.com/telzo2000/cool836A/issues/2
+<br>
+レッドバージョンのbuilde guideはこちらです。<br>
+https://github.com/telzo2000/cool836A/blob/master/buildguide_red.md
 
 # 設計に至るまで（Up to the design）<br>
 平成31年度および令和元年度に、「自作キーボード」という語を知りました。<br>
