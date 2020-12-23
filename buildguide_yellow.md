@@ -3,9 +3,9 @@
 
 
 **写真**
-![IMG_3272](img/IMG_3705.jpg)
-![IMG_3268](img/IMG_3707.jpg)
-![IMG_3271](img/IMG_3709.jpg)
+![IMG_3272](https://github.com/telzo2000/cool836A/blob/master/img/IMG_3705.JPG)
+![IMG_3268](img/IMG_3707.JPG)
+![IMG_3271](img/IMG_3709.JPG)
 <br>
 <br>
 **特徴**
