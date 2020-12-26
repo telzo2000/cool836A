@@ -92,6 +92,8 @@ Layer=3<br>
 <br>
 　[LED対応Jsonファイル](https://github.com/telzo2000/cool836A/)
 　<br>
+ 私が実装したものは遊舎工房さんの「 [フルカラーシリアルLEDテープ 6個タイプ](https://yushakobo.jp/shop/a01sl-00/)」を２つ使いました。<br>
+ 
  Layer=3<br>
  ![](https://github.com/telzo2000/cool836A/blob/master/img/LEDlayer3.png)
 <br>
