@@ -4,8 +4,7 @@
 
 **写真**
 
-<img width="45%" alt="cool836A" src="img/IMG_3705.JPG">　<img width="45%" alt="cool836A" src="img/IMG_3707.JPG">
-<br>
+![IMG_3268](img/IMG_3705.JPG)
 ![IMG_3268](img/IMG_3707.JPG)
 ![IMG_3271](img/IMG_3709.JPG)
 <br>
