@@ -170,13 +170,13 @@ Layer=3<br>
 
 ![](img/IMG_3730.jpg)
 
-![](img/IMG_3732.jpg)
+![](img/IMG_3732.JPG)
 
-![](img/IMG_3731.jpg)
+![](img/IMG_3731.JPG)
 
-![](img/IMG_3733.jpg)
+![](img/IMG_3733.JPG)
 
-![](img/IMG_3734.jpg)
+![](img/IMG_3734.JPG)
 
 <br>
 　その後、ボトムプレート大の下面から残り３箇所のネジ穴に、M２ネジ４mmを挿しこみ、M２スペーサー８mmで締めます。
