@@ -20,7 +20,7 @@
 
 **注意**
 <br>
-　cool836Aイエローバージョンは、Ver.A（通称[ブラックバージョン](https://mki0002ozlet.booth.pm/items/2408319)）、MXソケット対応（LED端子もオプション対応）のVer.B+（通称[レッドバージョン](https://mki0002ozlet.booth.pm/items/2542223)）に続く、Ver. C+として設計されたました。これまでのものとの主な違いは、次の通りです。<br>
+　cool836Aイエローバージョンは、Ver.A（通称[ブラックバージョン](https://mki0002ozlet.booth.pm/items/2408319)）、MXソケット対応（LED端子もオプション対応）のVer.B+（通称[レッドバージョン](https://mki0002ozlet.booth.pm/items/2542223)）に続く、Ver. C+として設計されました。これまでのものとの主な違いは、次の通りです。<br>
 １　pro microの設置位置の変更<br>
 ２　１に伴い、ボトムプレートの変更<br>
 ３　ボトムプレート「[BLE Micro Pro用電池基板](https://yushakobo.jp/shop/ble-micro-pro-battery-board/)」を収納するスペースを追加<br>
