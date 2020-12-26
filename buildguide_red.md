@@ -81,6 +81,19 @@ Layer=3<br>
 **LEDについて**
 <br>
 　実装できるように、PCB下面に配線はしました。自己責任でお願いします。<br>
+ 20201226追記：私自身のレッドバージョンに実装してみました。<br>
+ 
+ ![](img/IMG_0272.JPG)
+ <br>
+ [Keyboard Firmware Builder](https://kbfirmware.com/)で、LEDの処理ができるようになりましたので、それに合わせて、LED対応したファームウェアを作りました。Layer３にLEDのオンオフに関するキーを追加しました。LED対応のJsonファイル（cool836LED.json）とHexファイル（cool836LED.hex）を下記のリンク先に置きます。ダウンロードして、QMK Toolboxにて使用してください。QMK Toolboxは下記のリンク先にあります。<br>
+　[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)
+<br>
+　[LED対応hexファイル](https://github.com/telzo2000/cool836A/)
+<br>
+　[LED対応Jsonファイル](https://github.com/telzo2000/cool836A/)
+　<br>
+ Layer=3<br>
+ ![](https://github.com/telzo2000/cool836A/blob/master/img/LEDlayer3.png)
 <br>
 <br>
 **組み立て手順**
