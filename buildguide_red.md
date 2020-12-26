@@ -84,7 +84,6 @@ Layer=3<br>
  20201226追記：私自身のレッドバージョンに実装してみました。<br>
  
  ![](img/IMG_0272.JPG)
- 
  <br>
  [Keyboard Firmware Builder](https://kbfirmware.com/)で、LEDの処理ができるようになりましたので、それに合わせて、LED対応したファームウェアを作りました。Layer３にLEDのオンオフに関するキーを追加しました。LED対応のJsonファイル（cool836LED.json）とHexファイル（cool836LED.hex）を下記のリンク先に置きます。ダウンロードして、QMK Toolboxにて使用してください。QMK Toolboxは下記のリンク先にあります。<br>
 　[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)
