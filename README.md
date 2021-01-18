@@ -1,11 +1,11 @@
 # cool836A
-ブラックバージョンのbuilde guideはこちらです。<br>
+ブラックバージョン(Ver.A)のbuilde guideはこちらです。<br>
 https://github.com/telzo2000/cool836A/blob/master/buildguide_black.md
 <br>
-レッドバージョンのbuilde guideはこちらです。<br>
+レッドバージョン(Ver.B+)のbuilde guideはこちらです。<br>
 https://github.com/telzo2000/cool836A/blob/master/buildguide_red.md
 <br>
-イエローバージョンのbuilde guiadeはこちらです。<br>
+イエローバージョン(Ver.C+)のbuilde guiadeはこちらです。<br>
 https://github.com/telzo2000/cool836A/blob/master/buildguide_yellow.md
 <br>
 
