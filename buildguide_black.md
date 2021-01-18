@@ -4,9 +4,9 @@
 ![IMG_3271](https://user-images.githubusercontent.com/67196597/96326157-462e9300-1069-11eb-8f2a-3851a0b3ca6e.jpg)
 
 **特徴**
-・Alice配列
-・MXスイッチの36キー
-・サンドイッチマウント
+・Alice配列<br>
+・MXスイッチの36キー<br>
+・サンドイッチマウント<br>
 
 **同封されている部品**
 １　PCB　１枚
