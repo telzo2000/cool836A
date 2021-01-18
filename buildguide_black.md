@@ -51,14 +51,17 @@
 <br>
 　デフォルトキーマップは作者が実際に使用しているもので、ほぼ何不自由なく使えるように工夫しています。<br>
 チートシートは次のとおりです。<br>
-
-Layer=0
+<br><br>
+Layer=0<br>
 <img width="881" alt="cool836Alayer0" src="https://user-images.githubusercontent.com/67196597/93729150-3f456980-fbfe-11ea-9c2e-4ac80c4ab55f.png">
-Layer=1
+
+Layer=1<br>
 <img width="865" alt="cool836Alayer1" src="https://user-images.githubusercontent.com/67196597/93729159-479da480-fbfe-11ea-9d41-8ba2cf8d3dab.png">
-Layer=2
+
+Layer=2<br>
 <img width="866" alt="cool836Alayer2" src="https://user-images.githubusercontent.com/67196597/93729165-4c625880-fbfe-11ea-801b-8a2af8366228.png">
-Layer=3
+
+Layer=3<br>
 <img width="866" alt="cool836Alayer3" src="https://user-images.githubusercontent.com/67196597/93729175-54ba9380-fbfe-11ea-8ac7-c353c10f7748.png">
 
 　キーレイアウトの変更をされる場合は、事前に、[デフォルトJsonファイル](https://github.com/telzo2000/cool836A/)をダウンロードしてから、[Keyboard Firmware builder](https://kbfirmware.com/)へアクセスしてください。「Upload」をクリックして、先ほどのデフォルトJsonファイルを選択してください。<br>
