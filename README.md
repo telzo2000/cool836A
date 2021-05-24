@@ -9,7 +9,8 @@ https://github.com/telzo2000/cool836A/blob/master/buildguide_red.md
 https://github.com/telzo2000/cool836A/blob/master/buildguide_yellow.md
 <br>
 
-# 設計に至るまで（Up to the design）<br>
+# 設計に至るまで（Up to the design）
+<br>
 平成31年度および令和元年度に、「自作キーボード」という語を知りました。<br>
 その後、nomu30、Choco60、Caravelle等を購入して実際に作ってみました。<br>
 これらはどれもとても素晴らしいキーボードでした。<br>
