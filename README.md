@@ -52,6 +52,8 @@ cool943Sの開発が終わり、発注した後、時間ができたので、ラ
 
 # 今後の変更予定（Update Plan)
 順不同<br>
+☑︎REMAP対応に向けて、via用jsonファイル、hexファイルの作成<br>
+※この」リポジトリ内にあります。ご自由にお使いください。<br>
 ☑MXソケット採用 Ver.B Date:20201024<br>
 □chocoスイッチ版　※pro microの設置場所をPCBの下面から上面に変更か<br>
 ☑LED装着　Ver.B+ Date:20201025<br>
