@@ -8,11 +8,7 @@
 #define PRODUCT_ID      0x6060
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    m.ki
-<<<<<<< HEAD
-#define PRODUCT         cool936S
-=======
 #define PRODUCT         cool836A
->>>>>>> 5f757c11a052f7f714f7ebd9328b85ff001b4fc3
 #define DESCRIPTION     Keyboard
 
 /* key matrix size */
