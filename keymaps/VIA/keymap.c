@@ -4,11 +4,7 @@
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 	KEYMAP(
-<<<<<<< HEAD
-		KC_ESC, KC_LCTL, KC_LSFT, KC_Y, KC_H, RSFT_T(KC_SPC), 
-=======
 		KC_ESC, KC_LCTL, KC_LSFT, KC_Y, KC_H, RSFT(KC_SPC), 
->>>>>>> ecb60e915a0c1f572088168cb24a5e4a0227c353
 		ALT_T(KC_Q), KC_A, KC_Z, KC_U, KC_J, LT(1, KC_N), 
 		KC_W, KC_S, GUI_T(KC_X), KC_I, KC_K, KC_M, 
 		KC_E, KC_D, KC_C, KC_O, KC_L, KC_COMM, 
