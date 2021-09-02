@@ -19,7 +19,7 @@ https://github.com/telzo2000/cool836A/blob/master/buildguide_yellow.md
 なかなかうまくいなかい部分があり、その際にはSU120の作者さんから助言をもらい、
 完成に至りました。<br>
 この経験を積んで、さらにSU120を使い、Caravelleのあまったスイッチプレートを活用した「Caravellion」を作りました。<br>
-「Caravellion」と同時期に、格子配列の30％キーボード「[cool635](https://github.com/telzo2000/cool635-)」を作りました。<br>
+「Caravellion」と同時期に、格子配列の30％キーボード「[cool635](https://github.com/telzo2000/cool635)」を作りました。<br>
 さらに30％キーボードに、矢印キーや数字キーが欲しいと思い始めて、50％キーボード「cool753」を作りました。<br>
 これらはすべてSU120を使って作りました。<br>
 ここまで経験すると、ある程度、わかってきたもので、次は何を作ろうかなと思い、
