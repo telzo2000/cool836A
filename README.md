@@ -78,3 +78,4 @@ Ver.C+ gbr20201114　通称「イエローバージョン」<br>
 Ver.D　gbr20201227plate,gbr20201227pcb,gbr20201227case<br>
 cool844 Ver.1 gbrcool844date20210222 通称「cool836Aラージサイズ」<br>
 
+
